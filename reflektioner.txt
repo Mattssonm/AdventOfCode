@@ -1,0 +1,14 @@
+Reflektioner av arbetsprov
+
+Här kommer mina reflektioner av arbetsproven 
+
+--- 2017: Day 1: Inverse Captcha ---
+Som ni sa vid mötet beskrev ni att instruktionerna till uppgifterna kan vara något svåra att förstå. Vilket jag märkte på denna. 
+Jag började med att lägga tid på att bygga en lösning men insåg snart att det blev fel. Jag hade förstått uppgiften mer komplicerat än det faktiskt var. När jag sedan tänkte om och läste instruktionerna några gånger till, såg jag hur enkelt det egentligen var att lösa, vilket gjorde att kände mig lite trög som inte greppat det tidigare. 
+
+--- 2016: Day 1: No Time for a Taxicab ---
+Denna uppgift visste jag direkt hur jag skulle lösa. Efter att ha tragglat en stund med att förstå instruktionerna såg jag direkt lösningen med att göra en x och y axel, bestämma de nya koordinaterna och jämföra med utgångspunkten. Dock funderar jag på om man hade kunnat bygga denna lösning med betydligt mindre kod. Samtidigt får man även göra avvägningen vad som är enkelt för andra att förstå. I detta fallet tyckte jag Switch var bra då en annan programmera enkelt förstår vad som pågår, utan att skriva en massa kommentarer.
+
+Sammanfattningsvis: 
+
+Överlag älskar jag att jobba med denna typ av logiska övningar och algoritmiska tänk. Det är riktigt kul. Gillar utmaningen! Jag tyckte att 2016 var lättare att lösa än 2017. Men egentligen framförallt så var instruktionerna lättare att förstå. Jag har även gjort en hel del sådana här övningar tidigare, bland annat utmaningar i geometri, vilket gjorde det mycket lättare att lösa 2016.
