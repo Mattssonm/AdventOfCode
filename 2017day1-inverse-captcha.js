@@ -24,19 +24,19 @@ function solveCaptchaPart1(arr) {
 
 function solveCaptchaPart2(arr) {
   let sum = 0;
-  let length = arr.length
+  let length = arr.length;
 
   for (let i = 0; i < length; i++) {
     //if the index is less than half of the arr.length
     if (i < length/2) {
-      //compare it with index at half of arr.length
+      //compare it with number which is indexed half the lenght ahead of it
       if (arr[i] === arr[i+length/2]) {
-        sum += arr[i]
+        sum += arr[i];
       }
     //else index is more than half of the arr. length
     } else {
 
-      //compare index with the number half the length ahead of it.
+      //compare index with number which is indexed half the length before it
       if (arr[i] === arr[i-length/2]) {
         sum += arr[i];
       }
@@ -45,5 +45,5 @@ function solveCaptchaPart2(arr) {
   return sum;
 }
 
-solveCaptchaPart1(convertedArr);
-solveCaptchaPart2(convertedArr);
+console.log(solveCaptchaPart1(convertedArr));
+console.log(solveCaptchaPart2(convertedArr));
