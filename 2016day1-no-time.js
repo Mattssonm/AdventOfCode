@@ -12,7 +12,7 @@ let travelObj = {
   //initialize direction
   currentDirection: "north",
 
-  //placesBeen is every stop made when getting new instruction, ["x, y", "x, y", ...]
+  //initialize placesBeen, this is every cooridinate visited, ["x, y", "x, y", ...]
   placesBeen: ["0, 0"],
 
   turnLeft() {
